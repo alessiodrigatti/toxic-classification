@@ -1,0 +1,13 @@
+Model,Recall
+bert_MultinomialNB,0.64
+bert_LogisticRegression,0.68
+bert_RandomForestClassifier,0.69
+tfidf_MultinomialNB,0.69
+tfidf_LogisticRegression,0.69
+tfidf_RandomForestClassifier,0.60
+hash_MultinomialNB,0.51
+hash_LogisticRegression,0.66
+hash_RandomForestClassifier,0.59
+glove_MultinomialNB,0.50
+glove_LogisticRegression,0.66
+glove_RandomForestClassifier,0.65
